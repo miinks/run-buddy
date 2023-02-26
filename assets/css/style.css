@@ -63,3 +63,10 @@ section {
     background-image: url("../images/hero-bg.jpg");
     height: 600px;
 }
+.hero-form {
+    background-color: #fce138;
+    padding: 20px;
+    width: 500px;
+    color: #026e76;
+    border: solid 3px #024e76
+}
