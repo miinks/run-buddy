@@ -227,3 +227,7 @@ section {
 .contact-info a {
     color: #fce138;
 }
+#reach-out-inner {
+    flex-direction: row;
+    display: flex;
+}
