@@ -206,7 +206,7 @@ section {
     width: 400px;
     height: 400px;
 }
-.contact-info div {
+.contact-info div  {
     width: 410px;
     display: inline-block;
     vertical-align: top;
@@ -218,7 +218,8 @@ section {
     color: #fce138;
     font-size: 32px;
 }
-.contact-info p, .contact-info address {
+.contact-info p, 
+.contact-info address {
     margin: 20px 0;
     line-height: 1.5;
     font-size: 20px;
@@ -227,7 +228,4 @@ section {
 .contact-info a {
     color: #fce138;
 }
-#reach-out-inner {
-    flex-direction: row;
-    display: flex;
-}
+
