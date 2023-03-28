@@ -12,3 +12,5 @@ https://miinks.github.io/run-buddy/
 
 ## Contribution
 Made With Love by Miinks
+
+### ©️2023 Run Buddy, Inc 
